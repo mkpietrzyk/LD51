@@ -15,7 +15,7 @@ public class EndText : MonoBehaviour
         {
             if (hasPlayerDied.Value)
             {
-                GetComponent<TextMeshProUGUI>().text = "You died";   
+                GetComponent<TextMeshProUGUI>().text = "You burned to Crisp!";   
             } else if (hasPlayerWon.Value)
             {
                 GetComponent<TextMeshProUGUI>().text = "You escaped!";    
