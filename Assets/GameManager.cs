@@ -25,13 +25,13 @@ public class GameManager : MonoBehaviour
  
         if (sceneName == "Menu") 
         {
-            uiState.Value = uiState.InitialValue;
             ResetState();
+            uiState.Value = uiState.InitialValue;
         }
         else if (sceneName == "Game")
         {
-            uiState.Value = "PlayerUI";
             ResetState();
+            uiState.Value = "PlayerUI";
         }
 
     }

@@ -26,9 +26,9 @@ public class FlareController : MonoBehaviour
             {
                 flareLight.intensity = Random.Range(0.9f, 1f) * 190;
             }
-            else if (flareDuration.Value <= 3f && flareDuration.Value >= 0f && flareLight.intensity >= 1f)
+            else if (flareDuration.Value <= 3f && flareDuration.Value >= 0f && flareLight.intensity > 1f)
             {
-                if (flareLight.intensity >= 1f)
+                if (flareLight.intensity > 1f)
                 {
                     flareLight.intensity -= Time.deltaTime * 100;
                 }

@@ -138,8 +138,8 @@
      <Compile Include="Library\PackageCache\com.unity-atoms.unity-atoms-base-atoms@4.4.5\Editor\Drawers\Events\Vector3EventDrawer.cs" />
      <Compile Include="Library\PackageCache\com.unity-atoms.unity-atoms-base-atoms@4.4.5\Editor\Editors\Events\DoubleEventEditor.cs" />
      <Compile Include="Library\PackageCache\com.unity-atoms.unity-atoms-base-atoms@4.4.5\Editor\Editors\Variables\BoolVariableEditor.cs" />
-     <Compile Include="Library\PackageCache\com.unity-atoms.unity-atoms-base-atoms@4.4.5\Editor\Drawers\ValueLists\Collider2DValueListDrawer.cs" />
      <Compile Include="Library\PackageCache\com.unity-atoms.unity-atoms-base-atoms@4.4.5\Editor\Drawers\Events\ColliderEventDrawer.cs" />
+     <Compile Include="Library\PackageCache\com.unity-atoms.unity-atoms-base-atoms@4.4.5\Editor\Drawers\ValueLists\Collider2DValueListDrawer.cs" />
      <Compile Include="Library\PackageCache\com.unity-atoms.unity-atoms-base-atoms@4.4.5\Editor\Drawers\Constants\StringConstantDrawer.cs" />
      <Compile Include="Library\PackageCache\com.unity-atoms.unity-atoms-base-atoms@4.4.5\Editor\Editors\Variables\DoubleVariableEditor.cs" />
      <Compile Include="Library\PackageCache\com.unity-atoms.unity-atoms-base-atoms@4.4.5\Editor\Drawers\Collections\AtomCollectionReferenceDrawer.cs" />
